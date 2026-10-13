@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amritraj007
 - 👀 I’m interested in coding and learning new skills
-- 🌱 DSA with c++
+- 🌱 DSA with python
 
 
 <!---
